@@ -61,6 +61,23 @@ Generated Answer
 ```
 
 ---
+## 📸 Screenshots
+
+### 🏠 Application Home Page
+
+The application allows users to upload one or more PDF documents and ask questions based on their contents through an intuitive interface.
+
+![RAG Application Home Page](images/homepage_sc.png)
+
+---
+
+### 🤖 Context-Aware Answer Generation
+
+After retrieving relevant information from the uploaded document using FAISS and LangChain, the application generates accurate, context-aware responses using a Large Language Model.
+
+![Generated Answer](images/generated_answer_sc.png)
+
+
 
 ## Skills Demonstrated
 
